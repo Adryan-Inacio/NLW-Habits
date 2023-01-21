@@ -18,7 +18,7 @@ A NLW é um programa exclusivo e gratuito, promovido pela Rocketseat para ensino
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/Preview.jpg" width="100%">
+  <img alt="Projeto Habits" src=".github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online] (https://adryan-inacio.github.io/NLW-Setup)
 
 ## 🔖 Layout
 
